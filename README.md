@@ -39,8 +39,8 @@
 ## Установка
 
 ```bash
-git clone https://github.com/<owner>/rosreestr-presentation-skill.git
-cd rosreestr-presentation-skill
+git clone https://github.com/astafjef2-blip/arena_shablon.git
+cd arena_shablon
 pip install -r requirements.txt
 # для превью (необязательно): LibreOffice
 #   Ubuntu/Debian: sudo apt install libreoffice-impress
